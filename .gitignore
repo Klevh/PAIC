@@ -1,0 +1,6 @@
+*.o
+*~
+PAIC
+PAIC/*
+tests
+tests/*
