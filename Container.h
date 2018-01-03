@@ -24,7 +24,7 @@ int pushBackContainer(Container,void *);
 int pushFrontContainer(Container,void *);
 void * popBackContainer(Container);
 void * popFrontContainer(Container);
-size_t sizeContainer(Container);
+size_t lenContainer(Container);
 void * getContainer(Container,size_t);
 void * setContainer(Container,size_t,void *);
 
