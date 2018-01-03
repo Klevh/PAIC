@@ -32,7 +32,7 @@ void * popFrontContainer(Container c){
     return c.popFront(c.object);
 }
 
-size_t sizeContainer(Container c){
+size_t lenContainer(Container c){
     return c.len(c.object);
 }
 
