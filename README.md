@@ -9,7 +9,7 @@ A generic iterator is also provided, and used in the three generic containers bu
 ## What you will find in this read-me
 
 * [Basic features](#basic-features)
-* [Howto create your generic container](#how-to-create-your-generic-container)
+* [How to create your generic container](#how-to-create-your-generic-container)
 * [How to use your generic container as a generic generic container](#how-to-use-your-generic-container-as-a-generic-generic-container)
 * [How to use your generic container with generic iterators](#how-to-use-your-generic-container-with-generic-iterators)
 
